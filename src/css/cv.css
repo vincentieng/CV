@@ -1,0 +1,124 @@
+html,body{
+  min-height: 100%;
+  margin-top: -10px;
+  padding-top: -10px;
+  height: 120%;
+  width: 100%;
+  font-family: sans-serif;
+  background-color: #F7FEFD;
+}
+
+.sidebar{
+  margin-left: auto;
+  margin-right: auto;
+}
+.sidebar img{
+  width:150%;
+  margin-top : 80%;
+  border-radius : 70%;
+  border-style: dashed;
+  display: block;
+  margin-left: -20px;
+}
+
+.presentation h1{
+  text-align: center;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: bold;
+  color: #090876;
+}
+.presentation p {
+  width:70%;
+  font-size: 20px;
+  margin-left: 10%;
+  text-align : justify;
+}
+.presentation ul{
+  margin-top: -30px;
+  margin-left: -25px;
+}
+.presentation ul li{
+  list-style: none;
+  text-align: center;
+  font-size: 16px;
+}
+.presentation ul li a {
+  text-decoration: none;
+}
+.presentation, .experience, .projet, .competences, .formation,.passions{
+  position: relative;
+  margin-left: 80px;
+  top: 30px;
+  margin-bottom: 12%;
+}
+.presentation h1,ul{
+  margin-bottom: 50px;
+}
+p{
+  font-size: 25px;
+}
+
+h1{
+  font-size: 40px;
+  font-style: normal;
+  font-weight: bold;
+  color: #0E0D5F;
+  margin-bottom: 40px;
+}
+.experience ul li{
+  list-style: none;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bold;
+  color: black;
+  display: block;
+}
+
+.experience img{
+  width: 60px;
+  margin-right: 30px;
+}
+.listTaches{
+  margin-left: 16em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.listTaches  ul li{
+  font-size: 17px;
+  color: #40739e;
+}
+.left{
+  float: left;
+  width: 30%;
+  margin-right: 30px;
+}
+
+.left p, .left p {
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+  color: #6a89cc;
+  margin-top: 20px;
+  height: 3em;
+}
+
+.formation p {
+  font-size: 25px;
+  color: black;
+}
+.formation li{
+  font-size: 20px;
+  margin-left: 9.5%;
+}
+li{
+  font-size: 18px;
+}
+
+.passions ul{
+  margin-top: 10px;
+}
+.footer{
+  height: 20%;
+}
