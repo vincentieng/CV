@@ -8,9 +8,13 @@ html,body{
   background-color: #F7FEFD;
 }
 
-.sidebar{
-  margin-left: auto;
-  margin-right: auto;
+#open{
+  margin-top: 2%;
+  margin-left: 2%;
+}
+#close{
+  margin-top: 2%;
+  margin-left: 2%;
 }
 .sidebar img{
   width:150%;
